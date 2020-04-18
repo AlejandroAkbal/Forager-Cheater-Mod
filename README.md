@@ -1,2 +1,3 @@
 # Cheater
- A forager mod
+
+Get items without enabling cheats
