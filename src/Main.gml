@@ -6,3 +6,4 @@ globalMessages()
 // Player
 GiveItemCommand()
 
+SetXPCommand()
