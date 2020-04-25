@@ -7,3 +7,5 @@ globalMessages()
 GiveItemCommand()
 
 SetXPCommand()
+
+SetLevelCommand()
