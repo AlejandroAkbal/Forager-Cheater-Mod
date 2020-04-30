@@ -1,11 +1,13 @@
 #define Main
 
 // Global
-globalMessages()
+globalMessages();
 
 // Player
-GiveItemCommand()
+GiveItemCommand();
 
-SetXPCommand()
+SetXPCommand();
 
-SetLevelCommand()
+SetLevelCommand();
+
+KillAllDroidsCommand();
