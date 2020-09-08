@@ -12,7 +12,14 @@
     _quantity = real(_args[0]);
     
     // Set XP
-    objPlayer.xp = _quantity
+    if (_quantity > objPlayer.xp){
+        objPlayer.xpToGain = _quantity
+    }
+    
+    else {
+        objPlayer.xp = _quantity
+        objPlayer.xpToGain = _quantity
+    }
     
     // Message
     Trace("Set XP to " + string(_quantity));
